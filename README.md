@@ -16,7 +16,7 @@ When users visit the webpage, they now have five options in the Filter Search se
 ![Filter by City](https://github.com/jmueller187/UFOs/blob/main/Resources/UfosFilterByCity.png)
 
 3) Filter by State
-1[Filter by State](https://github.com/jmueller187/UFOs/blob/main/Resources/UfosFilterByState.png)
+![Filter by State](https://github.com/jmueller187/UFOs/blob/main/Resources/UfosFilterByState.png)
 
 4) Filter by Country
 ![Filter by Country](https://github.com/jmueller187/UFOs/blob/main/Resources/UfosFilterByCountry.png)

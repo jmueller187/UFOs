@@ -9,22 +9,22 @@ After creating a UFO Sightings webpage containing a dynamic table of data which 
 ## Results:
 When users visit the webpage, they now have five options in the Filter Search section to search for specific entries in the UFO sighting data. They can narrow their search by choosing a search field, entering the appropriate criteria and pressing Enter to initiate the search. The filtering options are as follows:
 
-1) Filter by Date
+1) Filter by Date:
 ![Filter by Date](https://github.com/jmueller187/UFOs/blob/main/Resources/UfosFilterByDate.png)
 
-2) Filter by City
+2) Filter by City:
 ![Filter by City](https://github.com/jmueller187/UFOs/blob/main/Resources/UfosFilterByCity.png)
 
-3) Filter by State
+3) Filter by State:
 ![Filter by State](https://github.com/jmueller187/UFOs/blob/main/Resources/UfosFilterByState.png)
 
-4) Filter by Country
+4) Filter by Country:
 ![Filter by Country](https://github.com/jmueller187/UFOs/blob/main/Resources/UfosFilterByCountry.png)
 
-5) Filter by Shape
+5) Filter by Shape:
 ![Filter by Shape](https://github.com/jmueller187/UFOs/blob/main/Resources/UfosFilterByShape.png)
 
 
-## Summary: In a summary statement, describe one drawback of this new design and two recommendations for further development.
+## Summary:
 While the webpage now contains multiple options for filtering the UFO sighting data, there is now a drawback in that the criteria you want to use must exist for the specific search field or no results will be returned. For example, entering a shape that has not been tracked will not provide any table entries.
 This issue could be resolved in future development by adding drop-down menus for each search field so the users can select from the available entries to narrow their search. Another development option to resolve this issue would be to include a type-ahead feature in the search fields, thereby filling in the entry as the user types if that entry exists in the current data. 

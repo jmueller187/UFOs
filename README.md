@@ -1,5 +1,5 @@
 # UFOs
-Building an interactive UFO sghtings web appllication using JavaScript, Bootstrap and CSS.
+Building an interactive UFO sightings web application using JavaScript, Bootstrap and CSS.
 
 [Deployed UFO's Web Application](https://jmueller187.github.io/UFOs/)
 
